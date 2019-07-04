@@ -1,11 +1,11 @@
-# Tutorial-Scikit-learn-1-Regressão-Linear-Regressão-Logística
+# Tutorial-Scikit-learn-1-Linear-Regression-and-Logistic-Regression
 Tutorial made from 'Machine Learning com Scikit learn 1 - Regressão Linear e Regressão Logística' (Jonas Bitencourt) by Marcus Mariano
 
 ---
 
 ## Introduction
 
-Tutorial explained how to create documentation with MkDocs in python.
+Tutorial introduction to machine learn with Scikit Learn - Linear Regression and Logistic Regression.
 
 Packages
 
